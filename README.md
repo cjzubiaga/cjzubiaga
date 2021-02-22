@@ -2,7 +2,7 @@
 - 👀 I’m interested in sofware developement invloving Machine Learning, Simulation and Computer Graphics.
 - 🌱 I’m currently looking for a job in Spain (Madrid or North) or France (South-West) or full-remote.
 - 💞️ I’m looking to collaborate on projects that aims to improve the environment and the society equity.
-- 📫 Tou can reach at cj.zubiaga@tutanota.com
+- 📫 Tou can reach me at cj.zubiaga@tutanota.com
 
 <!---
 cjzubiaga/cjzubiaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
